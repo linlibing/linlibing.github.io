@@ -98,10 +98,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
+        title: "简书·AE86",
         href: "http://www.jianshu.com/u/4284761e2928"
     },{
         title: "Apple",
